@@ -1,5 +1,5 @@
 {
-  "name": "sonic-runner-game",
+  "name": "sonic-runner",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,9 +9,9 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "vite": "^6.0.1"
+    "vite": "^5.4.0"
   },
   "dependencies": {
-    "kaplay": "^3001.0.2"
+    "kaplay": "^3001.0.0-alpha.21"
   }
 }
